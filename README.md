@@ -3,7 +3,7 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=aaron1aaron2&show_icons=true&theme=vue-dark&hide=issues,prs,contribs&custom_title=aaron1aaron2's GitHub Medium Stats&include_all_commits=true&count_private=true" />
     </a>
     <a href="https://github.com/aaron1aaron2">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aaron1aaron2&theme=vue-dark&card_width=230"/> 
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aaron1aaron2&layout=compact&theme=vue-dark&card_width=230"/> 
     </a>
 </p>
 <!--&layout=compact-->
