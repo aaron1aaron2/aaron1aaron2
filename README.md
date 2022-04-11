@@ -32,5 +32,20 @@
     <a href="https://github.com/aaron1aaron2/Recommended-system_telegram-chatbot">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aaron1aaron2&repo=Recommended-system_telegram-chatbot&theme=vue-dark" />
     </a>
+    <a href="https://github.com/aaron1aaron2/taiwan-ISCO-Industry-Occupation-code">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aaron1aaron2&repo=taiwan-ISCO-Industry-Occupation-code&theme=vue-dark" />
+    </a>
 </p>
 
+## 👨‍💻 Crawler Project
+<p align=center>
+    <a href="https://github.com/aaron1aaron2/NCBI-pubmed_Crawler">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aaron1aaron2&repo=NCBI-pubmed_Crawler&theme=vue-dark" />
+    </a>
+    <a href="https://github.com/aaron1aaron2/taiwan-news-udn-crawler-2021">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aaron1aaron2&repo=taiwan-news-udn-crawler-2021&theme=vue-dark" />
+    </a>
+    <a href="https://github.com/aaron1aaron2/google-play-review-Crawler">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aaron1aaron2&repo=google-play-review-Crawler&theme=vue-dark" />
+    </a>
+</p>
