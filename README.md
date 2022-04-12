@@ -27,3 +27,16 @@
 - A Dynamic Embedding Method for Passenger Flow Estimation. <br>
 Wei-Yi Chung, Yen-Nan Ho, Yu-Hsuan Wu and Jheng-Long Wu. IIAI AAI. 2021.<br>
 [slide](https://drive.google.com/file/d/1-xDHdDPWYW8JMgJ1vIxP_JQvH5VSEwyc/view?usp=sharing) | [Competitive Paper Award](https://iaiai.org/conference/aai2021/program/awards/)
+
+## Competition
+<p align=center>
+    <a href="https://github.com/aaron1aaron2/Recommended-system_telegram-chatbot">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aaron1aaron2&repo=Recommended-system_telegram-chatbot&theme=vue-dark" />
+</p> -->
+    
+## Undergrad research
+<p align=center>
+    <a href="https://github.com/aaron1aaron2/Horus">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aaron1aaron2&repo=Horus&theme=vue-dark" />
+    </a>
+</p> -->
