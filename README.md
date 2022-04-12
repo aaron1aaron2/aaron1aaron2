@@ -29,14 +29,13 @@ Wei-Yi Chung, Yen-Nan Ho, Yu-Hsuan Wu and Jheng-Long Wu. IIAI AAI. 2021.<br>
 [slide](https://drive.google.com/file/d/1-xDHdDPWYW8JMgJ1vIxP_JQvH5VSEwyc/view?usp=sharing) | [Competitive Paper Award](https://iaiai.org/conference/aai2021/program/awards/)
 
 ## Competition
-<p align=center>
-    <a href="https://github.com/aaron1aaron2/Recommended-system_telegram-chatbot">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aaron1aaron2&repo=Recommended-system_telegram-chatbot&theme=vue-dark" />
-</p> -->
+- 2020 - 跨校合作(台大、政大、東吳)金融程式設計課程競賽，玉山銀行組第一名。<br>
+[code](https://github.com/aaron1aaron2/Recommended-system_telegram-chatbot)
+
     
 ## Undergrad research
 <p align=center>
     <a href="https://github.com/aaron1aaron2/Horus">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aaron1aaron2&repo=Horus&theme=vue-dark" />
     </a>
-</p> -->
+</p> 
