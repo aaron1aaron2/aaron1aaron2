@@ -7,7 +7,7 @@
     </a>
 </p>
 <!--&layout=compact-->
-
+<!-- 
 ## 👨‍💻 Project
 
 <p align=center>
@@ -17,4 +17,4 @@
     <a href="https://github.com/aaron1aaron2/NCCU_110_pytorch-and-ML_Prediction-of-bike-shortage">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aaron1aaron2&repo=NCCU_110_pytorch-and-ML_Prediction-of-bike-shortage&theme=vue-dark" />
     </a>
-</p>
+</p> -->
