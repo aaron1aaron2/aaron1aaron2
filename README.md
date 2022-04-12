@@ -34,8 +34,5 @@ Wei-Yi Chung, Yen-Nan Ho, Yu-Hsuan Wu and Jheng-Long Wu. IIAI AAI. 2021.<br>
 
     
 ## Undergrad research
-<p align=center>
-    <a href="https://github.com/aaron1aaron2/Horus">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aaron1aaron2&repo=Horus&theme=vue-dark" />
-    </a>
-</p> 
+- 2020 - 東吳大學 資料科學系109畢業專題實作 第一名。<br>
+[code](https://github.com/aaron1aaron2/Horus)
