@@ -20,19 +20,21 @@
 </p> -->
 
 ## Thesis
-- 結合情感詞與階層式關注網路辨識股市文章之維度型情感. <br>
+- **結合情感詞與階層式關注網路辨識股市文章之維度型情感**. <br>
 何彥南、吳政隆. TCSE 2020 第16屆 台灣軟體工程研討會. 16-17 July, 2020. <br>
 [full-text](https://drive.google.com/file/d/1-ubRsF5yCgj3gO49J2fxxTnlJpFNtPc5/view?usp=sharing)  <!-- | [slide]() -->
 
-- A Dynamic Embedding Method for Passenger Flow Estimation. <br>
+- **A Dynamic Embedding Method for Passenger Flow Estimation**. <br>
 Wei-Yi Chung, Yen-Nan Ho, Yu-Hsuan Wu and Jheng-Long Wu. IIAI AAI. 2021.<br>
 [slide](https://drive.google.com/file/d/1-xDHdDPWYW8JMgJ1vIxP_JQvH5VSEwyc/view?usp=sharing) | [Competitive Paper Award](https://iaiai.org/conference/aai2021/program/awards/)
 
 ## Competition
-- 2020 - 跨校合作(台大、政大、東吳)金融程式設計課程競賽，玉山銀行組第一名。<br>
+- **2020 - 跨校合作(台大、政大、東吳)金融程式設計課程競賽，玉山銀行組第一名。**<br>
+Tags: `recommendation-system`、`telegram-chatbot`、`Fintech` <br>
 [code](https://github.com/aaron1aaron2/Recommended-system_telegram-chatbot)
 
     
 ## Undergrad research
-- 2020 - 東吳大學 資料科學系109畢業專題實作 第一名。<br>
+- **2020 - 東吳大學 資料科學系109畢業專題實作 第一名。**<br>
+Tags: `face-recognition`、`multi-object-tracking`、`person-reidentification reid` <br>
 [code](https://github.com/aaron1aaron2/Horus)
