@@ -29,7 +29,7 @@ Wei-Yi Chung, Yen-Nan Ho, Yu-Hsuan Wu and Jheng-Long Wu. IIAI AAI. 2021.<br>
 [slide](https://drive.google.com/file/d/1-xDHdDPWYW8JMgJ1vIxP_JQvH5VSEwyc/view?usp=sharing) | [Competitive Paper Award](https://iaiai.org/conference/aai2021/program/awards/)
 
 ## Competition
-- **2020 - 跨校合作(台大、政大、東吳)金融程式設計課程競賽，玉山銀行組第一名。**<br>
+- **2020 - 跨校合作(台大、政大、東吳)金融程式設計課程競賽 玉山銀行組 第一名。**<br>
 Tags: `recommendation-system`、`telegram-chatbot`、`Fintech` <br>
 [code](https://github.com/aaron1aaron2/Recommended-system_telegram-chatbot)
 
