@@ -44,7 +44,7 @@ slide | [Competitive Paper Award](https://iaiai.org/conference/aai2021/program/a
 ### Soochow University(SCU) - Department of Data Science | 東吳大學 資料科學系
 
 - **2019 - VISUAL ANALYTICS0 - _final project_| 視覺化解析 期末報告** <br>
-- `keyword analysis`、`word could`、 `News`、`crawler`、`Infographic` <br>
+`keyword analysis`、`word could`、 `News`、`crawler`、`Infographic` <br>
 [code](https://github.com/aaron1aaron2/SCU-class_VISUAL-ANALYTICS-2019)
 
 - **2019 - DATA STRUCTURES AND ALGORITHMS - _note_ | 資料結構與演算法 筆記** <br>
