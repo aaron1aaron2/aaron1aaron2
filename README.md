@@ -43,23 +43,32 @@ slide | [Competitive Paper Award](https://iaiai.org/conference/aai2021/program/a
 ## Course Project
 ### Soochow University(SCU) - Department of Data Science | 東吳大學 資料科學系
 
-- **2019 - VISUAL ANALYTICS0 - _final project_| 視覺化解析 期末報告** <br>
+- **2019 - Visual Analytics - _final project_| 視覺化解析 期末報告** <br>
 `keyword analysis`、`word could`、 `News`、`crawler`、`Infographic` <br>
 [code](https://github.com/aaron1aaron2/SCU-class_VISUAL-ANALYTICS-2019)
 
-- **2019 - DATA STRUCTURES AND ALGORITHMS - _note_ | 資料結構與演算法 筆記** <br>
+- **2019 - Data Structures and Algorithms - _note_ | 資料結構與演算法 筆記** <br>
 [code](https://github.com/aaron1aaron2/SCU-class_DSA-2019)
 
-- **2021 - INSTRUCTION TO ARTIFICIAL INTELLIGENCE - _midterm project_| 人工智慧導論 期中報告** <br>
+- **2021 -  Instruction to Artificial intelligence - _midterm project_ | 人工智慧導論 期中報告** <br>
 `MLP`、`numpy`、`fashion-mnist` <br>
 [code](https://github.com/aaron1aaron2/SCU-class_MLP-Classifier_v1)
 
-`face-recognition`、`multi-object-tracking`、`person-reidentification reid` <br>
-[code](https://github.com/aaron1aaron2/Horus)
 
 ### National Chengchi University(NCCU) - Department of Computer Science | 國立政治大學 資訊科學系
 
-            
+- **2021 - PyTorch and Machine Learning - _final project_| Pytorch 與機器學習 期末報告** <br>
+`youbike`、`time-serise`、`pytorch`、`GMAN`、`Automate experiment process using shell file` <br>
+[code](https://github.com/aaron1aaron2/NCCU_110_pytorch-and-ML_Prediction-of-bike-shortage)
+
+- **2021 - JavaScript Application Design - _final project_| JavaScript 應用程式設計 期末報告** <br>
+`javascript`、`game`、`node.js`、`p5.js` <br>
+[code](https://github.com/aaron1aaron2/NCCU110_JS_final_refugee-game)
+
+- **2021 - Data Science - _final project_|  資料科學 期末報告** <br>
+`python`、`Imbalanced data`、`Binary classification`、`Finance`、`Credit Card transaction data` <br>
+[code](https://github.com/aaron1aaron2/NCCU_110_DS_final_Credit-Card-Fraud-Detection)
+
 
 ## Side Project
 
