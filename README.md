@@ -62,19 +62,19 @@ slide | [Competitive Paper Award](https://iaiai.org/conference/aai2021/program/a
 
 ### National Chengchi University(NCCU) - Department of Computer Science | 國立政治大學 資訊科學系
 
-- **2021 - PyTorch and Machine Learning - _final project_| Pytorch 與機器學習 期末報告** 
+- **2021 - PyTorch and Machine Learning - _final project_ | Pytorch 與機器學習 期末報告** 
     - `Python`、`Shell` 
     - Topic: `youbike`、`time-serise`
     - Tool: `pytorch`、`GMAN` 
     - [code](https://github.com/aaron1aaron2/NCCU_110-1_pytorch-and-ML_Prediction-of-bike-shortage)
 
-- **2021 - JavaScript Application Design - _final project_| JavaScript 應用程式設計 期末報告** 
+- **2021 - JavaScript Application Design - _final project_ | JavaScript 應用程式設計 期末報告** 
     - `Javascript`
     - Topic: `game`、`refugee`
     - Tool: `node.js`、`p5.js`
     - [code](https://github.com/aaron1aaron2/NCCU_110-1_JS_final_refugee-game)
 
-- **2021 - Data Science - _final project_|  資料科學 期末報告** <br>
+- **2021 - Data Science - _final project_ |  資料科學 期末報告** <br>
     - `R`
     - Topic: `Imbalanced data`、`Binary classification`、`Decision tree`、`Credit Card transaction data`
     - Tool: `rpart` `ggplot`<br>
