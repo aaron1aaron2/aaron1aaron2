@@ -75,7 +75,7 @@ slide | [Competitive Paper Award](https://iaiai.org/conference/aai2021/program/a
     - [code](https://github.com/aaron1aaron2/NCCU_110-1_JS_final_refugee-game)
 
 - **2021 - Data Science - _final project_ |  資料科學 期末報告** <br>
-    - `R`
+    - `R` 
     - Topic: `Imbalanced data`、`Binary classification`、`Decision tree`、`Credit Card transaction data`
     - Tool: `rpart` `ggplot`<br>
     - [code](https://github.com/aaron1aaron2/NCCU_110-1_DS_final_Credit-Card-Fraud-Detection)
