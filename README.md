@@ -37,6 +37,6 @@ Wei-Yi Chung, Yen-Nan Ho, Yu-Hsuan Wu and Jheng-Long Wu. IIAI AAI. 2021.<br>
 
     
 ## Undergrad research
-- **2020 - 東吳大學 資料科學系109畢業專題實作 第一名。**<br>
+- **2021 - 東吳大學 資料科學系109畢業專題實作 第一名。**<br>
 `face-recognition`、`multi-object-tracking`、`person-reidentification reid` <br>
 [code](https://github.com/aaron1aaron2/Horus)
