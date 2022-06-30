@@ -35,8 +35,18 @@ slide | [Competitive Paper Award](https://iaiai.org/conference/aai2021/program/a
 `recommendation-system`、`telegram-chatbot`、`Fintech`、 `Tensorflow` <br>
 [code](https://github.com/aaron1aaron2/Recommended-system_telegram-chatbot)
 
-    
 ## Undergrad research
 - **2021 - 東吳大學 資料科學系109畢業專題實作 第一名。**<br>
 `face-recognition`、`multi-object-tracking`、`person-reidentification reid` <br>
 [code](https://github.com/aaron1aaron2/Horus)
+
+## Course Project
+### Soochow University(SCU) - Department of Data Science | 東吳大學 資料科學系
+
+### National Chengchi University(NCCU) - Department of Computer Science | 國立政治大學 資訊科學系
+
+            
+
+## Side Project
+
+
