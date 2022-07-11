@@ -26,6 +26,10 @@ _This study is about Sentiment analysis of stock market news articles using deep
 - **2019 - Data Science Intern at Institute of Sociology, Academia Sinica | 中研院社會所資料科學實習生** <br>
 _Mainly engaged in web crawling, data processing, etc. All of work was use Python. This was the first time I learned about collaborative development projects._
 
+- **2020 - Research Assistant at NLP Lab(@DS.SCU) | 自然語言處理實驗室研究助理** <br>
+
+- **2021 - Research Assistant at Bioinformatics Lab(@CS.NCCU) |  生物資訊實驗室研究助理** <br>
+
 ## Thesis
 - **2020 - 結合情感詞與階層式關注網路辨識股市文章之維度型情感**. <br>
 何彥南、吳政隆. TCSE 2020 第16屆 台灣軟體工程研討會. 16-17 July, 2020. <br>
