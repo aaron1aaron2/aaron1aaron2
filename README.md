@@ -28,7 +28,7 @@ _Mainly engaged in web crawling, data processing, etc. All of work was use Pytho
 
 - **2020 - Research Assistant at NLP Lab(@DS.SCU) | 自然語言處理實驗室研究助理** <br>
 
-- **2021 - Research Assistant at Bioinformatics Lab(@CS.NCCU) |  生物資訊實驗室研究助理** <br>
+- **2021 - Master student at Bioinformatics Lab(@CS.NCCU) |  生物資訊實驗室研究助理** <br>
 
 ## Thesis
 - **2020 - 結合情感詞與階層式關注網路辨識股市文章之維度型情感**. <br>
