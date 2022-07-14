@@ -23,12 +23,12 @@
 - **2019 - Most College Student Program | 科技部大專生計畫** <br>
 _This study is about Sentiment analysis of stock market news articles using deep learning. We aim to used HAN(Hierarchical Attention Networks) model to classify news according to the two Sentiment Indexs Valence and Arousal._
 
-- **2019 - Data Science Intern at Institute of Sociology, Academia Sinica | 中研院社會所資料科學實習生** <br>
+- **2019 - Data Science Intern 1n Institute of Sociology, Academia Sinica | 中研院社會所資料科學實習生** <br>
 _Mainly engaged in web crawling, data processing, etc. All of work was use Python. This was the first time I learned about collaborative development projects._
 
-- **2020 - Research Assistant at NLP Lab(@DS.SCU) | 自然語言處理實驗室研究助理** <br>
+- **2020 - Research Assistant in NLP Lab(@DS.SCU) | 自然語言處理實驗室研究助理** <br>
 
-- **2021 - Master student at Bioinformatics Lab(@CS.NCCU) |  生物資訊實驗室研究助理** <br>
+- **2021 - Master student in Bioinformatics Lab(@CS.NCCU) |  生物資訊實驗室研究助理** <br>
 
 ## Thesis
 - **2020 - 結合情感詞與階層式關注網路辨識股市文章之維度型情感**. <br>
