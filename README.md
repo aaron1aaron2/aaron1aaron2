@@ -61,6 +61,8 @@ Wei-Yi Chung, Yen-Nan Ho, Yu-Hsuan Wu and Jheng-Long Wu. IIAI AAI. 2021.<br>
 
 ![](https://github.com/aaron1aaron2/aaron1aaron2/blob/main/SCU%20Undergrad%20research(bachelor)/flowSystem%20Architecture.png)
 
+#### Demo
+[![](https://img.youtube.com/vi/_Fw6MSzFeSw/0.jpg)](https://www.youtube.com/watch?v=_Fw6MSzFeSw)
 
 ## Course Project
 ### Deep learning
