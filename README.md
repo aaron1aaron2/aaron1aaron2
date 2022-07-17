@@ -51,12 +51,12 @@ Wei-Yi Chung, Yen-Nan Ho, Yu-Hsuan Wu and Jheng-Long Wu. IIAI AAI. 2021.<br>
 
 
 ## Competition
-### **2020 - 跨校合作(台大、政大、東吳)金融程式設計課程競賽 玉山銀行組 第一名。**<br>
+### **2020 - 跨校合作(台大、政大、東吳)金融程式設計課程競賽 玉山銀行組 第一名 🥇**<br>
 `recommendation-system`、`telegram-chatbot`、`Fintech`、 `Tensorflow` <br>
 [code](https://github.com/aaron1aaron2/Recommended-system_telegram-chatbot)
 
 ## Undergrad research
-### **2021 - 東吳大學 資料科學系109畢業專題實作 第一名。**<br>
+### **2021 - 東吳大學 資料科學系109畢業專題實作 第一名 🥇**<br>
 `face-recognition`、`multi-object-tracking`、`person-reidentification reid` <br>
 [full-text](https://github.com/aaron1aaron2/aaron1aaron2/blob/main/SCU%20Undergrad%20research(bachelor)/Horus%20_%20%E7%B5%90%E5%90%88%E4%BA%BA%E8%87%89%E8%BE%A8%E8%AD%98%E3%80%81%E7%89%A9%E4%BB%B6%E8%BF%BD%E8%B9%A4%E8%88%87%20ReID%20%E6%8A%80%E8%A1%93%E5%AF%A6%E4%BD%9C%E5%A4%A9%E7%9C%BC%E7%B3%BB%E7%B5%B1_v1.pdf) | [code](https://github.com/aaron1aaron2/Horus)
 <br>
