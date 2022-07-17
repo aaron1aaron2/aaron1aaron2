@@ -1,3 +1,5 @@
+![](https://github.com/aaron1aaron2/aaron1aaron2/blob/main/img/Hello!%20I%E2%80%99m%20Aaron.png)
+
 <p align=center>
     <a href="https://github.com/aaron1aaron2">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=aaron1aaron2&show_icons=true&theme=cobalt&hide=issues,prs,contribs&custom_title=aaron1aaron2's GitHub Stats&include_all_commits=true&count_private=true&card_width=230" />
