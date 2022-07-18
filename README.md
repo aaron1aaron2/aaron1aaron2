@@ -28,9 +28,9 @@ _This study is about Sentiment analysis of stock market news articles using deep
 - **2019 - Data Science Intern 1n Institute of Sociology, Academia Sinica | 中研院社會所資料科學實習生** <br>
 _Mainly engaged in web crawling, data processing, process automation, etc. All of work was use Python. And my Python skills improved significantly during internship. Moreover, This was the first time I participated in collaborative development projects and I learned how to communicate and collaborate with people in different fields_
 
-- **2020 ~ 2021 - Research Assistant in NLP Lab(@DS.SCU) | 自然語言處理實驗室研究助理** <br>
+- **2020 ~ 2021 - Research Assistant in NLP Lab(@DS.SCU) | 東吳大學 自然語言處理實驗室研究助理** <br>
 
-- **2021 ~ now - Master student in Bioinformatics Lab(@CS.NCCU) |  生物資訊實驗室研究生** <br>
+- **2021 ~ now - Master student in Bioinformatics Lab(@CS.NCCU) |  政治大學 生物資訊實驗室研究生** <br>
 
 ## Thesis
 ### **2020 - 結合情感詞與階層式關注網路辨識股市文章之維度型情感**. <br>
