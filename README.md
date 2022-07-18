@@ -106,7 +106,3 @@ Wei-Yi Chung, Yen-Nan Ho, Yu-Hsuan Wu and Jheng-Long Wu. IIAI AAI. 2021.<br>
     - [code](https://github.com/aaron1aaron2/NCCU_110-1_JS_final_refugee-game)
 
 
-
-## Side Project
-
-
