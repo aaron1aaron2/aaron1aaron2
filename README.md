@@ -26,7 +26,7 @@
 _This study is about Sentiment analysis of stock market news articles using deep learning. We aim to used HAN(Hierarchical Attention Networks) model to classify news according to the two Sentiment Indexs Valence and Arousal._
 
 - **2019 - Data Science Intern 1n Institute of Sociology, Academia Sinica | 中研院社會所資料科學實習生** <br>
-_Mainly engaged in web crawling, data processing, process automation, etc. All of work was use Python. And my Python skills improved significantly during internship. Moreover, This was the first time I participated in collaborative development projects. And learn to communicate and coordinate with people in different fields_
+_Mainly engaged in web crawling, data processing, process automation, etc. All of work was use Python. And my Python skills improved significantly during internship. Moreover, This was the first time I participated in collaborative development projects and I learned how to communicate and collaborate with people in different fields_
 
 - **2020 - Research Assistant in NLP Lab(@DS.SCU) | 自然語言處理實驗室研究助理** <br>
 
