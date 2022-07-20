@@ -49,7 +49,7 @@ _Mainly engaged in web crawling, data processing, process automation, etc. All o
 ### **2021 - A Dynamic Embedding Method for Passenger Flow Estimation**. <br>
 Wei-Yi Chung, Yen-Nan Ho, Yu-Hsuan Wu and Jheng-Long Wu. IIAI AAI. 2021.<br>
 `BERT`、`MRT-flow-predict`、`time-series` <br>
-[slide](https://github.com/aaron1aaron2/aaron1aaron2/blob/main/IIAI_2021/Conference_slide.pdf) | [Competitive Paper Award](https://github.com/aaron1aaron2/aaron1aaron2/blob/main/IIAI_2021/Competitive%20Paper%20Award.pdf)
+[slide](https://github.com/aaron1aaron2/aaron1aaron2/blob/main/IIAI_2021/Conference_slide.pdf) | [Competitive Paper Award](https://github.com/aaron1aaron2/aaron1aaron2/blob/main/IIAI_2021/Competitive%20Paper%20Award.png)
 <br>
 
 <details>
