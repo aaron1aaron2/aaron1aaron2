@@ -32,7 +32,7 @@ _Mainly engaged in web crawling, data processing, process automation, etc. All o
 
 - **2021 ~ now - Master student in Bioinformatics Lab(@CS.NCCU) |  政治大學 生物資訊實驗室研究生** <br>
 
-## Thesis
+## Publication
 ### **2020 - 結合情感詞與階層式關注網路辨識股市文章之維度型情感**. <br>
 何彥南、吳政隆. TCSE 2020 第16屆 台灣軟體工程研討會. 16-17 July, 2020. <br>
 `HAN`、`Sentiment analysis`、`Valence-Arousal`、`NLP`、`Pytorch`、 `Most College Student Program` <br>
