@@ -67,7 +67,7 @@ Wei-Yi Chung, Yen-Nan Ho, Yu-Hsuan Wu and Jheng-Long Wu. IIAI AAI. 2021.<br>
 <details>
 <summary>details</summary><br><b>
 
-![](https://github.com/aaron1aaron2/aaron1aaron2/blob/main/IIAI_2021/flowchart.png)
+![](https://github.com/aaron1aaron2/E.SUN_Fugle_project/blob/master/MVP/img/chatbot_flow.png)
 
 </b></details>
 
