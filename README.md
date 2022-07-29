@@ -61,8 +61,11 @@ Wei-Yi Chung, Yen-Nan Ho, Yu-Hsuan Wu and Jheng-Long Wu. IIAI AAI. 2021.<br>
 
 ## Competition
 ### **2020 - 跨校合作(台大、政大、東吳)金融程式設計課程競賽 玉山銀行組 第一名 🥇**<br>
-`recommendation-system`、`telegram-chatbot`、`Fintech`、 `Tensorflow` <br>
-[code](https://github.com/aaron1aaron2/E.SUN_Fugle_project)
+_智能投資信鴿: 股票推薦系統 chatbot_
+
+`recommendation-system`、`telegram-chatbot`、`Fintech`、 `Tensorflow`
+
+[code](https://github.com/aaron1aaron2/E.SUN_Fugle_project) | [slide](https://github.com/aaron1aaron2/E.SUN_Fugle_project/blob/master/%E7%8E%89%E5%B1%B1_%E9%A1%8C%E7%9B%AE%E4%BA%8C_%E7%B5%84%E5%88%A5%E4%B8%80.pdf)
 
 <details>
 <summary>details</summary><br><b>
@@ -73,7 +76,10 @@ Wei-Yi Chung, Yen-Nan Ho, Yu-Hsuan Wu and Jheng-Long Wu. IIAI AAI. 2021.<br>
 
 ## Undergrad research
 ### **2021 - 東吳大學 資料科學系109畢業專題實作 第一名 🥇**<br>
-`face-recognition`、`multi-object-tracking`、`person-reidentification reid` <br>
+_Horus 結合人臉辨識、物件追蹤與 ReID 技術實作天眼系統_ 
+
+`face-recognition`、`multi-object-tracking`、`person-reidentification reid` 
+
 [full-text](https://github.com/aaron1aaron2/aaron1aaron2/blob/main/SCU%20Undergrad%20research(bachelor)/Horus%20_%20%E7%B5%90%E5%90%88%E4%BA%BA%E8%87%89%E8%BE%A8%E8%AD%98%E3%80%81%E7%89%A9%E4%BB%B6%E8%BF%BD%E8%B9%A4%E8%88%87%20ReID%20%E6%8A%80%E8%A1%93%E5%AF%A6%E4%BD%9C%E5%A4%A9%E7%9C%BC%E7%B3%BB%E7%B5%B1_v1.pdf) | [code](https://github.com/aaron1aaron2/Horus)
 <br>
 
@@ -90,14 +96,14 @@ Wei-Yi Chung, Yen-Nan Ho, Yu-Hsuan Wu and Jheng-Long Wu. IIAI AAI. 2021.<br>
 ## Course Project
 ### Deep learning
 - **2021.9 ~ 2022.1 - PyTorch and Machine Learning - _final project_ | Pytorch 與機器學習 期末報告** 
-    - Topic: Prediction of bike shortage
+    - Topic: _Prediction of bike shortage_
     - Language: `Python`、`Shell` 
     - Keyword: `youbike`、`time-serise`
     - Tool: `pytorch`、`GMAN` 
     - [code](https://github.com/aaron1aaron2/NCCU_110-1_pytorch-and-ML_Prediction-of-bike-shortage)
 
 - **22022.2 ~ 2022.6 - Theory and Practice of Bioinformatics - _final project_ | 生物資訊概論 期末報告** 
-    - Topic: paper implements - "Multiscale and integrative single-cell Hi-C analysis with Higashi"
+    - Topic: _paper implements - "Multiscale and integrative single-cell Hi-C analysis with Higashi"_
     - Language: `Python`
     - Keyword: `single-cell Hi-C`、`hyper-graph`、`Bioinformatics`
     - Tool: `pytorch`、`Colab`、`Higashi`
@@ -105,7 +111,7 @@ Wei-Yi Chung, Yen-Nan Ho, Yu-Hsuan Wu and Jheng-Long Wu. IIAI AAI. 2021.<br>
 
 ### Machine learning
 - **2021.9 ~ 2022.1 - Data Science - _final project_ |  資料科學 期末報告** <br>
-    - Topic: Credit Card Fraud Detection
+    - Topic: _Credit Card Fraud Detection_
     - Language: `R` 
     - Keyword: `Imbalanced data`、`Binary classification`、`Decision tree`、`Credit Card transaction data`
     - Tool: `rpart` `ggplot`
@@ -113,7 +119,7 @@ Wei-Yi Chung, Yen-Nan Ho, Yu-Hsuan Wu and Jheng-Long Wu. IIAI AAI. 2021.<br>
 
 ### Visualization
 - **22022.2 ~ 2022.6 - Information Visualization - _final project_ | 資訊視覺化 期末報告** 
-    - Topic: U-Bike inventory information visualization
+    - Topic: _U-Bike inventory information visualization_
     - Language: `Javascript`、`Python`
     - Keyword: `youbike`、`time-serise`、
     - Tool: `D3.js`、`Bootstrap`、`Jquery`、`Leaflet`
@@ -121,14 +127,14 @@ Wei-Yi Chung, Yen-Nan Ho, Yu-Hsuan Wu and Jheng-Long Wu. IIAI AAI. 2021.<br>
 
 ### Other
 - **2021.9 ~ 2022.1 - JavaScript Application Design - _final project_ | JavaScript 應用程式設計 期末報告** 
-    - Topic: Refugee Ark
+    - Topic: _Refugee Ark_
     - Language: `Javascript`
     - Keyword: `game`、`refugee`
     - Tool: `node.js`、`p5.js`
     - [code](https://github.com/aaron1aaron2/NCCU_110-1_JS_final_refugee-game)
 
 - **2022.2 ~ 2022.6 - Distributed System - _final project_ | 分散式系統 期末報告** 
-    - Topic: Data Remediation by Spark for Web Crawler
+    - Topic: _Data Remediation by Spark for Web Crawler_
     - Language: `Pythin`、`Shell`、`Ruby`
     - Keyword: `Crawler data rescue`、`Distributed System`、`time-serise`
     - Tool: `Vagrant`、`Spark`、`InfluxDB`、`Dash`
