@@ -111,7 +111,7 @@ Wei-Yi Chung, Yen-Nan Ho, Yu-Hsuan Wu and Jheng-Long Wu. IIAI AAI. 2021.<br>
     - Tool: `rpart` `ggplot`
     - [code](https://github.com/aaron1aaron2/NCCU_110-1_DS_final_Credit-Card-Fraud-Detection)
 
-### visualization
+### Visualization
 - **22022.2 ~ 2022.6 - Information Visualization - _final project_ | 資訊視覺化 期末報告** 
     - Topic: U-Bike inventory information visualization
     - Language: `Javascript`、`Python`
