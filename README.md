@@ -96,6 +96,13 @@ Wei-Yi Chung, Yen-Nan Ho, Yu-Hsuan Wu and Jheng-Long Wu. IIAI AAI. 2021.<br>
     - Tool: `pytorch`、`GMAN` 
     - [code](https://github.com/aaron1aaron2/NCCU_110-1_pytorch-and-ML_Prediction-of-bike-shortage)
 
+- **22022.2 ~ 2022.6 - Theory and Practice of Bioinformatics - _final project_ | 生物資訊概論 期末報告** 
+    - Topic: paper implements - "Multiscale and integrative single-cell Hi-C analysis with Higashi"
+    - Language: `Python`
+    - Keyword: `single-cell Hi-C`、`hyper-graph`、`Bioinformatics`
+    - Tool: `pytorch`、`Colab`、`Higashi`
+    - [code](https://github.com/aaron1aaron2/NCCU_110-2_Theory-and-Practice-of-Bioinformatics_final)
+
 ### Machine learning
 - **2021.9 ~ 2022.1 - Data Science - _final project_ |  資料科學 期末報告** <br>
     - Topic: Credit Card Fraud Detection
@@ -105,7 +112,12 @@ Wei-Yi Chung, Yen-Nan Ho, Yu-Hsuan Wu and Jheng-Long Wu. IIAI AAI. 2021.<br>
     - [code](https://github.com/aaron1aaron2/NCCU_110-1_DS_final_Credit-Card-Fraud-Detection)
 
 ### visualization
-
+- **22022.2 ~ 2022.6 - Information Visualization - _final project_ | 資訊視覺化 期末報告** 
+    - Topic: U-Bike inventory information visualization
+    - Language: `Javascript`、`Python`
+    - Keyword: `youbike`、`time-serise`、
+    - Tool: `D3.js`、`Bootstrap`、`Jquery`、`Leaflet`
+    - [code](https://github.com/aaron1aaron2/NCCU_110-2_Information_Visualization_final)
 
 ### Other
 - **2021.9 ~ 2022.1 - JavaScript Application Design - _final project_ | JavaScript 應用程式設計 期末報告** 
