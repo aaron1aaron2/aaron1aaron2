@@ -89,14 +89,15 @@ Wei-Yi Chung, Yen-Nan Ho, Yu-Hsuan Wu and Jheng-Long Wu. IIAI AAI. 2021.<br>
 
 ## Course Project
 ### Deep learning
-- **2021 - PyTorch and Machine Learning - _final project_ | Pytorch 與機器學習 期末報告** 
+- **2021.9 ~ 2022.1 - PyTorch and Machine Learning - _final project_ | Pytorch 與機器學習 期末報告** 
     - `Python`、`Shell` 
-    - Topic: `youbike`、`time-serise`
+    - Topic: 
+    - keyword: `youbike`、`time-serise`
     - Tool: `pytorch`、`GMAN` 
     - [code](https://github.com/aaron1aaron2/NCCU_110-1_pytorch-and-ML_Prediction-of-bike-shortage)
 
 ### Machine learning
-- **2021 - Data Science - _final project_ |  資料科學 期末報告** <br>
+- **2021.9 ~ 2022.1 - Data Science - _final project_ |  資料科學 期末報告** <br>
     - `R` 
     - Topic: `Imbalanced data`、`Binary classification`、`Decision tree`、`Credit Card transaction data`
     - Tool: `rpart` `ggplot`<br>
@@ -106,10 +107,17 @@ Wei-Yi Chung, Yen-Nan Ho, Yu-Hsuan Wu and Jheng-Long Wu. IIAI AAI. 2021.<br>
 
 
 ### Other
-- **2021 - JavaScript Application Design - _final project_ | JavaScript 應用程式設計 期末報告** 
+- **2021.9 ~ 2022.1 - JavaScript Application Design - _final project_ | JavaScript 應用程式設計 期末報告** 
     - `Javascript`
-    - Topic: `game`、`refugee`
+    - Topic: 
+    - keyword: `game`、`refugee`
     - Tool: `node.js`、`p5.js`
     - [code](https://github.com/aaron1aaron2/NCCU_110-1_JS_final_refugee-game)
 
+- **2022.2 ~ 2022.6 - Distributed System - _final project_ | 分散式系統 期末報告** 
+    - `Pythin`、`Shell`、`Ruby`
+    - Topic: Data Remediation by Spark for Web Crawler
+    - keyword: `Crawler data rescue`、`Distributed System`、`time-serise`
+    - Tool: `Vagrant`、`Spark`、`InfluxDB`、`Dash`
+    - [code](https://github.com/aaron1aaron2/NCCU_110-2_Distributed-System-Spark_final)
 
