@@ -2,10 +2,10 @@
 
 <p align=center>
     <a href="https://github.com/aaron1aaron2">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=aaron1aaron2&show_icons=true&theme=radical&include_all_commits=true" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=aaron1aaron2&show_icons=true&theme=radical&include_all_commits=true&card_width=250" />
     </a>
     <a href="https://github.com/aaron1aaron2">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aaron1aaron2&layout=compact&theme=radical"/> 
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aaron1aaron2&layout=compact&theme=radical&card_width=250"/> 
     </a>
 </p>
 <!--&layout=compact-->
