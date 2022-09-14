@@ -140,3 +140,4 @@ _Horus 結合人臉辨識、物件追蹤與 ReID 技術實作天眼系統_
     - Tool: `Vagrant`、`Spark`、`InfluxDB`、`Dash`
     - [code](https://github.com/aaron1aaron2/NCCU_110-2_Distributed-System-Spark_final) | [slide](https://github.com/aaron1aaron2/NCCU_110-2_Distributed-System-Spark_final/blob/main/doc/spark_final.pdf)
 
+https://docs.google.com/presentation/d/1J88GsgfkQ1DT4BDplnppe0Ov6znb9Pvugq728G4ZFLY/edit?usp=sharing
