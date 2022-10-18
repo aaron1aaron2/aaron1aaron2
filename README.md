@@ -79,12 +79,12 @@ _基於時價登入資料之土地價值預測_
 
 `time-serise`、`Land transaction Records`、 `Regional index` 
 
-[code](https://github.com/aaron1aaron2/PropGman__Regional-index-predict-based-on-transaction-records) | [slide](https://github.com/aaron1aaron2/)
+[code](https://github.com/aaron1aaron2/PropGman__Regional-index-predict-based-on-transaction-records) | [slide](https://github.com/aaron1aaron2/aaron1aaron2/blob/main/AI%20Asset%20activation%20Competition/%E8%B3%87%E7%94%A2%E6%B4%BB%E5%8C%96%20AI%20%E6%87%89%E7%94%A8%E5%89%B5%E6%96%B0%E7%AB%B6%E8%B3%BD_%E6%B1%BA%E8%B3%BD%E5%A0%B1%E5%91%8A.pdf) | [poster](https://github.com/aaron1aaron2/aaron1aaron2/blob/main/AI%20Asset%20activation%20Competition/%E6%B5%B7%E5%A0%B1.pdf)
 
 <details>
 <summary>details</summary><br><b>
 
-![](https://github.com/aaron1aaron2/E.SUN_Fugle_project/blob/master/MVP/img/chatbot_flow.png)
+![](https://github.com/aaron1aaron2/aaron1aaron2/blob/main/AI%20Asset%20activation%20Competition/%E6%B5%81%E7%A8%8B%E5%9C%96.png)
 
 </b></details>
 
