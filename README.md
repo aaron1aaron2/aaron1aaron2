@@ -74,6 +74,20 @@ _智能投資信鴿: 股票推薦系統 chatbot_
 
 </b></details>
 
+### **2022 - 資產活化 AI 應用創新競賽 創意獎 💡**<br>
+_基於時價登入資料之土地價值預測_
+
+`time-serise`、`Land transaction Records`、 `Regional index` 
+
+[code](https://github.com/aaron1aaron2/PropGman__Regional-index-predict-based-on-transaction-records) | [slide](https://github.com/aaron1aaron2/)
+
+<details>
+<summary>details</summary><br><b>
+
+![](https://github.com/aaron1aaron2/E.SUN_Fugle_project/blob/master/MVP/img/chatbot_flow.png)
+
+</b></details>
+
 ## Undergrad research
 ### **2021 - 東吳大學 資料科學系109畢業專題實作 第一名 🥇**<br>
 _Horus 結合人臉辨識、物件追蹤與 ReID 技術實作天眼系統_ 
