@@ -109,6 +109,11 @@ _Horus 結合人臉辨識、物件追蹤與 ReID 技術實作天眼系統_
 
 ## Course Project
 ### Deep learning
+<br>
+
+<details>
+<summary>details</summary><br><b>
+
 - **2021.9 ~ 2022.1 - PyTorch and Machine Learning - _final project_ | Pytorch 與機器學習 期末報告** 
     - Topic: _Prediction of bike shortage_
     - Language: `Python`、`Shell` 
@@ -123,7 +128,13 @@ _Horus 結合人臉辨識、物件追蹤與 ReID 技術實作天眼系統_
     - Tool: `pytorch`、`Colab`、`Higashi`
     - [code](https://github.com/aaron1aaron2/NCCU_110-2_Theory-and-Practice-of-Bioinformatics_final)
 
+</b></details>
+
 ### Machine learning
+<br>
+
+<details>
+<summary>details</summary><br><b>
 - **2021.9 ~ 2022.1 - Data Science - _final project_ |  資料科學 期末報告** <br>
     - Topic: _Credit Card Fraud Detection_
     - Language: `R` 
@@ -131,7 +142,14 @@ _Horus 結合人臉辨識、物件追蹤與 ReID 技術實作天眼系統_
     - Tool: `rpart` `ggplot`
     - [code](https://github.com/aaron1aaron2/NCCU_110-1_DS_final_Credit-Card-Fraud-Detection)
 
+</b></details>
+
 ### Visualization
+<br>
+
+<details>
+<summary>details</summary><br><b>
+
 - **22022.2 ~ 2022.6 - Information Visualization - _final project_ | 資訊視覺化 期末報告** 
     - Topic: _U-Bike inventory information visualization_
     - Language: `Javascript`、`Python`
@@ -139,7 +157,14 @@ _Horus 結合人臉辨識、物件追蹤與 ReID 技術實作天眼系統_
     - Tool: `D3.js`、`Bootstrap`、`Jquery`、`Leaflet`
     - [code](https://github.com/aaron1aaron2/NCCU_110-2_Information_Visualization_final)
 
+</b></details>
+
 ### Other
+<br>
+
+<details>
+<summary>details</summary><br><b>
+
 - **2021.9 ~ 2022.1 - JavaScript Application Design - _final project_ | JavaScript 應用程式設計 期末報告** 
     - Topic: _Refugee Ark_
     - Language: `Javascript`
@@ -153,4 +178,7 @@ _Horus 結合人臉辨識、物件追蹤與 ReID 技術實作天眼系統_
     - Keyword: `Crawler data rescue`、`Distributed System`、`time-serise`
     - Tool: `Vagrant`、`Spark`、`InfluxDB`、`Dash`
     - [code](https://github.com/aaron1aaron2/NCCU_110-2_Distributed-System-Spark_final) | [slide](https://github.com/aaron1aaron2/NCCU_110-2_Distributed-System-Spark_final/blob/main/doc/spark_final.pdf)
+    
+</b></details>
+
 
