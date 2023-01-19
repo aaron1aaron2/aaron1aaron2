@@ -135,6 +135,7 @@ _Horus 結合人臉辨識、物件追蹤與 ReID 技術實作天眼系統_
 
 <details>
 <summary>details</summary><br><b>
+
 - **2021.9 ~ 2022.1 - Data Science - _final project_ |  資料科學 期末報告** <br>
     - Topic: _Credit Card Fraud Detection_
     - Language: `R` 
