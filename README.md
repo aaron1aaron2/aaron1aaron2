@@ -8,6 +8,28 @@
       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aaron1aaron2&layout=compact&theme=radical&card_width=250"/> 
     </a>
 </p>
+
+<p align=center>
+    <a href="https://github.com/aaron1aaron2">
+      <img src="https://github-profile-trophy.vercel.app/?username=aaron1aaron2&theme=nord&no-frame=true&row=1&column=6" />
+    </a>
+</p>
+
+<p align=center>
+    <a href="https://github.com/aaron1aaron2">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaron1aaron2&theme=solarized_dark" />
+    </a>
+</p>
+
+<p align=center>
+    <a href="https://github.com/aaron1aaron2">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aaron1aaron2&theme=solarized_dark" />
+    </a>
+    <a href="https://github.com/aaron1aaron2">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aaron1aaron2&theme=solarized_dark&utcOffset=8" />
+    </a>
+</p>
+
 <!--&layout=compact-->
 <!-- 
 ## 👨‍💻 Project
