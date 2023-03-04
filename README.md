@@ -129,7 +129,7 @@ _Horus 結合人臉辨識、物件追蹤與 ReID 技術實作天眼系統_
 
 `face-recognition`、`multi-object-tracking`、`person-reidentification reid` 
 
-[full-text](https://github.com/aaron1aaron2/aaron1aaron2/blob/main/SCU%20Undergrad%20research(bachelor)/Horus%20_%20%E7%B5%90%E5%90%88%E4%BA%BA%E8%87%89%E8%BE%A8%E8%AD%98%E3%80%81%E7%89%A9%E4%BB%B6%E8%BF%BD%E8%B9%A4%E8%88%87%20ReID%20%E6%8A%80%E8%A1%93%E5%AF%A6%E4%BD%9C%E5%A4%A9%E7%9C%BC%E7%B3%BB%E7%B5%B1_v1.pdf) | [code](https://github.com/aaron1aaron2/Horus)
+[full-text](https://github.com/aaron1aaron2/aaron1aaron2/blob/main/SCU%20Undergrad%20research(bachelor)/Horus%20_%20%E7%B5%90%E5%90%88%E4%BA%BA%E8%87%89%E8%BE%A8%E8%AD%98%E3%80%81%E7%89%A9%E4%BB%B6%E8%BF%BD%E8%B9%A4%E8%88%87%20ReID%20%E6%8A%80%E8%A1%93%E5%AF%A6%E4%BD%9C%E5%A4%A9%E7%9C%BC%E7%B3%BB%E7%B5%B1_v1.pdf) | [code](https://github.com/aaron1aaron2/Horus) | [poster](https://github.com/aaron1aaron2/aaron1aaron2/blob/main/SCU%20Undergrad%20research(bachelor)/%E6%B5%B7%E5%A0%B1%E5%BD%B1%E5%8D%B0.pdf)
 <br>
 
 <details>
