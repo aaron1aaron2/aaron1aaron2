@@ -1,13 +1,13 @@
 # 判斷套件是否安裝
 if (!requireNamespace("rpart", quietly = TRUE)) {
-    install.packages("rpart")
+#     install.packages("rpart")
 }
 library(rpart)
 
 # 判斷指令是否存在
 args = commandArgs(trailingOnly=TRUE)
 if (length(args)==0) {
-    stop("USAGE: Rscript hw3_111971029.R --fold 5 --input Archaeal_tfpssm.csv --output performance.csv", call.=FALSE)
+    stop("USAGE: Rscript hw3_studentID.R --fold k --input Archaeal_tfpssm.csv --output performance.csv", call.=FALSE)
 }
 
 # 引數變數初始化
@@ -39,6 +39,9 @@ set.seed(42)
 
 # shuffle
 d <- d[sample(n), ]
+
+# [0 0 0 0 0] 
+accuracies <- numeric(f_fold)
 
 # k 數
 k <- strtoi(f_fold)
@@ -174,27 +177,27 @@ for (i in 1:k){
     )
     
     # set
-    print( paste("fold", i, sep="") )
+    # print( paste("fold", i, sep="") )
     li_set <- rbind(li_set, paste("fold", i, sep=""))
     
     # 預測 train data
     train_predictions <- predict(model, train_data, type = "class")
     train_accuracy <- mean(train_predictions == train_data[[2]])
-    print(paste("Training Accuracy:", train_accuracy))
+    # print(paste("Training Accuracy:", train_accuracy))
     total_train_acc <- total_train_acc + train_accuracy
     li_train_acc <- rbind(li_train_acc, round(train_accuracy, digits = 2))
     
     # 預測 val data
     val_predictions <- predict(model, val_data, type = "class")
     val_accuracy <- mean(val_predictions == val_data[[2]])
-    print(paste("Validation Accuracy:", val_accuracy ))
+    # print(paste("Validation Accuracy:", val_accuracy ))
     total_val_acc <- total_val_acc + val_accuracy
     li_val_acc <- rbind(li_val_acc, round(val_accuracy, digits = 2))
     
     # 預測 test data
     test_predictions <- predict(model, test_data, type = "class")
     test_accuracy <- mean(test_predictions == test_data[[2]])
-    print(paste("Test Accuracy:", test_accuracy ))
+    # print(paste("Test Accuracy:", test_accuracy ))
     total_test_acc <- total_test_acc + test_accuracy
     li_test_acc <- rbind(li_test_acc, round(test_accuracy, digits = 2))
 }
@@ -204,8 +207,8 @@ avg_train_acc <- round(total_train_acc / k, digits = 2)
 avg_val_acc <- round(total_val_acc / k, digits = 2)
 avg_test_acc <- round(total_test_acc / k, digits = 2)
 
-print( paste("ave.") )
-print( paste(avg_train_acc, avg_val_acc, avg_test_acc) )
+# print( paste("ave.") )
+# print( paste(avg_train_acc, avg_val_acc, avg_test_acc) )
 
 # 輸出結果
 result <- data.frame(set = li_set,
