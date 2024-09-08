@@ -69,18 +69,17 @@ _Mainly engaged in web crawling, data processing, process automation, etc. All o
 
 ## Publication
 ### **2020 - 結合情感詞與階層式關注網路辨識股市文章之維度型情感**
+
 何彥南、吳政隆. TCSE 2020 第16屆 台灣軟體工程研討會. 16-17 July, 2020.
-
-`HAN`、`Sentiment analysis`、`Valence-Arousal`、`NLP`、`Pytorch`、 `Most College Student Program` 
-
-[full-text](https://github.com/aaron1aaron2/aaron1aaron2/blob/main/TCSE_2020/%E7%B5%90%E5%90%88%E6%83%85%E6%84%9F%E8%A9%9E%E8%88%87%E9%9A%8E%E5%B1%A4%E5%BC%8F%E9%97%9C%E6%B3%A8%E7%B6%B2%E8%B7%AF.pdf) | [slide](https://github.com/aaron1aaron2/aaron1aaron2/blob/main/TCSE_2020/slide.pdf) 
+<br>`HAN`、`Sentiment analysis`、`Valence-Arousal`、`NLP`、`Pytorch`、 `Most College Student Program` 
+<br>[full-text](https://github.com/aaron1aaron2/aaron1aaron2/blob/main/TCSE_2020/%E7%B5%90%E5%90%88%E6%83%85%E6%84%9F%E8%A9%9E%E8%88%87%E9%9A%8E%E5%B1%A4%E5%BC%8F%E9%97%9C%E6%B3%A8%E7%B6%B2%E8%B7%AF.pdf) | [slide](https://github.com/aaron1aaron2/aaron1aaron2/blob/main/TCSE_2020/slide.pdf) 
 
 
 ### **2021 - A Dynamic Embedding Method for Passenger Flow Estimation**
 
 Wei-Yi Chung, Yen-Nan Ho, Yu-Hsuan Wu and Jheng-Long Wu. IIAI AAI. 2021.
 <br>`BERT`, `MRT-flow-predict`, `time-series` 
-<br>[IEEE](https://doi.org/10.1109/IIAI-AAI53430.2021.00070)
+<br>[publish web](https://doi.org/10.1109/IIAI-AAI53430.2021.00070)
 
 
 
@@ -88,7 +87,7 @@ Wei-Yi Chung, Yen-Nan Ho, Yu-Hsuan Wu and Jheng-Long Wu. IIAI AAI. 2021.
 
 Jheng-Long Wu, Wei-Yi Chung, Yu-Hsuan Wu, Yen-Nan Ho. Knowledge-Based Systems, 2024.
 <br>`Passenger flow prediction`, `Feature representation`, `Deep learning`, `Transfer learning`, `Attention mechanism`
-<br>[Elsevier: Knowledge-Based Systems](https://doi.org/10.1016/j.knosys.2024.112442)
+<br>[publish web](https://doi.org/10.1016/j.knosys.2024.112442)
 
 
 
