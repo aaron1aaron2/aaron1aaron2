@@ -68,31 +68,29 @@ _Mainly engaged in web crawling, data processing, process automation, etc. All o
 - **2021.7 ~ now - Master student in Bioinformatics Lab(@CS.NCCU) |  政治大學 生物資訊實驗室研究生** <br>
 
 ## Publication
-### **2020 - 結合情感詞與階層式關注網路辨識股市文章之維度型情感**. <br>
-何彥南、吳政隆. TCSE 2020 第16屆 台灣軟體工程研討會. 16-17 July, 2020. <br>
-`HAN`、`Sentiment analysis`、`Valence-Arousal`、`NLP`、`Pytorch`、 `Most College Student Program` <br>
+### **2020 - 結合情感詞與階層式關注網路辨識股市文章之維度型情感**
+何彥南、吳政隆. TCSE 2020 第16屆 台灣軟體工程研討會. 16-17 July, 2020.
+
+`HAN`、`Sentiment analysis`、`Valence-Arousal`、`NLP`、`Pytorch`、 `Most College Student Program` 
+
 [full-text](https://github.com/aaron1aaron2/aaron1aaron2/blob/main/TCSE_2020/%E7%B5%90%E5%90%88%E6%83%85%E6%84%9F%E8%A9%9E%E8%88%87%E9%9A%8E%E5%B1%A4%E5%BC%8F%E9%97%9C%E6%B3%A8%E7%B6%B2%E8%B7%AF.pdf) | [slide](https://github.com/aaron1aaron2/aaron1aaron2/blob/main/TCSE_2020/slide.pdf) 
-<br>
 
-<details>
-<summary>details</summary><br><b>
 
-![](https://github.com/aaron1aaron2/aaron1aaron2/blob/main/TCSE_2020/Flow%20charts%20and%20classification%20objectives.png)
+### **2021 - A Dynamic Embedding Method for Passenger Flow Estimation**
 
-</b></details>
+Wei-Yi Chung, Yen-Nan Ho, Yu-Hsuan Wu and Jheng-Long Wu. IIAI AAI. 2021.
+<br>`BERT`, `MRT-flow-predict`, `time-series` 
+<br>[IEEE](https://doi.org/10.1109/IIAI-AAI53430.2021.00070)
 
-### **2021 - A Dynamic Embedding Method for Passenger Flow Estimation**. <br>
-Wei-Yi Chung, Yen-Nan Ho, Yu-Hsuan Wu and Jheng-Long Wu. IIAI AAI. 2021.<br>
-`BERT`、`MRT-flow-predict`、`time-series` <br>
-[slide](https://github.com/aaron1aaron2/aaron1aaron2/blob/main/IIAI_2021/Conference_slide.pdf) | [Competitive Paper Award](https://github.com/aaron1aaron2/aaron1aaron2/blob/main/IIAI_2021/Competitive%20Paper%20Award.png) | [IEEE](https://doi.org/10.1109/IIAI-AAI53430.2021.00070)
-<br>
 
-<details>
-<summary>details</summary><br><b>
 
-![](https://github.com/aaron1aaron2/aaron1aaron2/blob/main/IIAI_2021/flowchart.png)
+### **2024 - Dynamic traffic network representation model for improving the prediction performance of passenger flow for mass rapid transit**
 
-</b></details>
+Jheng-Long Wu, Wei-Yi Chung, Yu-Hsuan Wu, Yen-Nan Ho. Knowledge-Based Systems, 2024.
+<br>`Passenger flow prediction`, `Feature representation`, `Deep learning`, `Transfer learning`, `Attention mechanism`
+<br>[Elsevier: Knowledge-Based Systems](https://doi.org/10.1016/j.knosys.2024.112442)
+
+
 
 ## Competition
 ### **2020 - 跨校合作(台大、政大、東吳)金融程式設計課程競賽 玉山銀行組 第一名 🥇**<br>
@@ -141,6 +139,9 @@ _Horus 結合人臉辨識、物件追蹤與 ReID 技術實作天眼系統_
 [![](https://img.youtube.com/vi/_Fw6MSzFeSw/0.jpg)](https://www.youtube.com/watch?v=_Fw6MSzFeSw)
 
 </b></details>
+
+
+<!--
 
 ## Course Project
 ### Deep learning
@@ -217,4 +218,4 @@ _Horus 結合人臉辨識、物件追蹤與 ReID 技術實作天眼系統_
     
 </b></details>
 
-
+-->
