@@ -36,10 +36,10 @@
 
 <p align=center>
     <a href="https://github.com/aaron1aaron2">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aaron1aaron2&theme=solarized_dark" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aaron1aaron2&theme=radical" />
     </a>
     <a href="https://github.com/aaron1aaron2">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aaron1aaron2&theme=solarized_dark&utcOffset=8" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aaron1aaron2&theme=radical&utcOffset=8" />
     </a>
 </p>
 
