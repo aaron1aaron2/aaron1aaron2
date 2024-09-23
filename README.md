@@ -30,7 +30,7 @@
 
 <p align=center>
     <a href="https://github.com/aaron1aaron2">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaron1aaron2&theme=solarized_dark" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaron1aaron2&theme=radical" />
     </a>
 </p>
 
