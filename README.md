@@ -32,18 +32,6 @@
     </a>
 </p>
 
-<!--&layout=compact-->
-<!-- 
-## 👨‍💻 Project
-
-<p align=center>
-    <a href="https://github.com/aaron1aaron2/Horus">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aaron1aaron2&repo=Horus&theme=vue-dark" />
-    </a>
-    <a href="https://github.com/aaron1aaron2/NCCU_110_pytorch-and-ML_Prediction-of-bike-shortage">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aaron1aaron2&repo=NCCU_110_pytorch-and-ML_Prediction-of-bike-shortage&theme=vue-dark" />
-    </a>
-</p> -->
 
 ## Experience
 - **2019.2 ~ 2020.7 - Most College Student Program | 科技部大專生計畫** <br>
