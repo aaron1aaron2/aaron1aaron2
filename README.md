@@ -3,7 +3,10 @@
 <!-- 狀態 -->
 <p align=center>
     <a href="https://github.com/aaron1aaron2">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=aaron1aaron2&show_icons=true&theme=radical&include_all_commits=true&card_width=250" />
+      <img src="https://github-readme-stats.vercel.app/api?username=aaron1aaron2&show_icons=true&theme=radical&include_all_commits=true&card_width=250" />
+    </a>
+    <a href="https://github.com/aaron1aaron2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaron1aaron2&layout=donut&theme=radical" />
     </a>
 </p>
 
@@ -15,20 +18,11 @@
     </a>
 </p>
 
-<!-- 更新狀態 + 程式占比 -->
+<!-- 更新狀態  -->
 
 <p align=center>
     <a href="https://github.com/aaron1aaron2">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaron1aaron2&theme=radical" />
-    </a>
-</p>
-
-<p align=center>
-    <a href="https://github.com/aaron1aaron2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaron1aaron2&layout=donut&theme=radical" />
-    </a>
-    <a href="https://github.com/aaron1aaron2">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aaron1aaron2&theme=radical&utcOffset=8" />
     </a>
 </p>
 
