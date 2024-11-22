@@ -25,7 +25,7 @@
 
 <p align=center>
     <a href="https://github.com/aaron1aaron2">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aaron1aaron2&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaron1aaron2&layout=donut-vertical&theme=radical" />
     </a>
     <a href="https://github.com/aaron1aaron2">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aaron1aaron2&theme=radical&utcOffset=8" />
