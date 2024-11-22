@@ -43,15 +43,14 @@ _Mainly engaged in web crawling, data processing, process automation, etc. All o
 
 何彥南、吳政隆. TCSE 2020 第16屆 台灣軟體工程研討會. 16-17 July, 2020.
 <br>`HAN`、`Sentiment analysis`、`Valence-Arousal`、`NLP`、`Pytorch`、 `Most College Student Program` 
-<br>[full-text](https://github.com/aaron1aaron2/aaron1aaron2/blob/main/Conference/TCSE_2020/%E7%B5%90%E5%90%88%E6%83%85%E6%84%9F%E8%A9%9E%E8%88%87%E9%9A%8E%E5%B1%A4%E5%BC%8F%E9%97%9C%E6%B3%A8%E7%B6%B2%E8%B7%AF.pdf) | [slide](https://github.com/aaron1aaron2/aaron1aaron2/blob/main/Conference/IIAI_2021/Conference_slide.pdf) 
+<br>[full-text](https://github.com/aaron1aaron2/aaron1aaron2/blob/main/Conference/TCSE_2020/%E7%B5%90%E5%90%88%E6%83%85%E6%84%9F%E8%A9%9E%E8%88%87%E9%9A%8E%E5%B1%A4%E5%BC%8F%E9%97%9C%E6%B3%A8%E7%B6%B2%E8%B7%AF.pdf) | [slide](https://github.com/aaron1aaron2/aaron1aaron2/blob/main/Conference/TCSE_2020/slide.pdf) 
 
 
 ### **2021 - A Dynamic Embedding Method for Passenger Flow Estimation**
 
 Wei-Yi Chung, Yen-Nan Ho, Yu-Hsuan Wu and Jheng-Long Wu. IIAI AAI. 2021.
 <br>`BERT`, `MRT-flow-predict`, `time-series` 
-<br>[publish web](https://doi.org/10.1109/IIAI-AAI53430.2021.00070) | [slide](https://github.com/aaron1aaron2/aaron1aaron2/blob/main/Conference/TCSE_2020/slide.pdf) 
-
+<br>[publish web](https://doi.org/10.1109/IIAI-AAI53430.2021.00070) | [slide](https://github.com/aaron1aaron2/aaron1aaron2/blob/main/Conference/IIAI_2021/Conference_slide.pdf) 
 
 
 ### **2024 - Dynamic traffic network representation model for improving the prediction performance of passenger flow for mass rapid transit**
