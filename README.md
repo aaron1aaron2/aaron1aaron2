@@ -19,14 +19,14 @@
 </p>
 
 <!-- 更新狀態  -->
-
+<!-- 
 <p align=center>
     <a href="https://github.com/aaron1aaron2">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaron1aaron2&theme=radical" />
     </a>
 </p>
 
-
+ -->
 ## Experience
 - **Most College Student Program | 2019 Feb ~ 2020 July  | 科技部大專生計畫** <br>
 _This study is about Sentiment analysis of stock market news articles using deep learning. We aim to used HAN(Hierarchical Attention Networks) model to classify news according to the two Sentiment Indexs Valence and Arousal. This is my first research and published in TCSE 2020 . The entire research was done by myself, and the teachers mainly provided advice and guidance._
