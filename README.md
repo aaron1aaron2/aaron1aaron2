@@ -64,7 +64,7 @@ Jheng-Long Wu, Wei-Yi Chung, Yu-Hsuan Wu, Yen-Nan Ho. Knowledge-Based Systems, 2
 
 Yen-Nan Ho and Jia-Ming Chang
 <br> `CNN`、`inception block`、`DNA sequence`、`CTCF loop prediction`、`DeepLIFT`
-<br>[code]([https://doi.org/10.1016/j.knosys.2024.112442](https://github.com/changlabtw/MCIENet))
+<br>[code](https://github.com/changlabtw/MCIENet)
 
 ## Competition
 ### **2020 - 跨校合作(台大、政大、東吳)金融程式設計課程競賽 玉山銀行組 第一名 🥇**<br>
