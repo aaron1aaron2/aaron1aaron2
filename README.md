@@ -39,7 +39,7 @@ _Mainly engaged in web crawling, data processing, process automation, etc. All o
 
 - **Master student in Bioinformatics Lab(@CS.NCCU) | 2021 July ~ 2024 Sep | 政治大學 生物資訊實驗室研究生** <br>
 
-- Data scientist at Harbor Technology Solutions Co., Ltd.  
+- **Data Scientist | Harbor Technology Solutions Co., Ltd., Taipei, Taiwan | 2025 Oct – Present**
 
 ## Publication
 ### **2020 - 結合情感詞與階層式關注網路辨識股市文章之維度型情感**
