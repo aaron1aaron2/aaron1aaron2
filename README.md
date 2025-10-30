@@ -29,15 +29,11 @@
 
  -->
 ## Experience
-- **Most College Student Program | 2019 Feb ~ 2020 July  | 科技部大專生計畫** <br>
-_This study is about Sentiment analysis of stock market news articles using deep learning. We aim to used HAN(Hierarchical Attention Networks) model to classify news according to the two Sentiment Indexs Valence and Arousal. This is my first research and published in TCSE 2020 . The entire research was done by myself, and the teachers mainly provided advice and guidance._
-
 - **Data Science Intern 1n Institute of Sociology, Academia Sinica | 2019 July ~ 2020 Dec | 中研院社會所資料科學實習生** <br>
 _Mainly engaged in web crawling, data processing, process automation, etc. All of work was use Python. And my Python skills improved significantly during internship. Moreover, This was the first time I participated in collaborative development projects and I learned how to communicate and collaborate with people in different fields_
 
 - **Research Assistant in NLP Lab(@DS.SCU) | 2019 July ~ 2021 July | 東吳大學 自然語言處理實驗室研究助理** <br>
 
-- **Master student in Bioinformatics Lab(@CS.NCCU) | 2021 July ~ 2024 Sep | 政治大學 生物資訊實驗室研究生** <br>
 
 - **Data Scientist | Harbor Technology Solutions Co., Ltd., Taipei, Taiwan | 2025 Oct – Present**
 
